@@ -1,0 +1,11 @@
+﻿[
+  {
+    "playerState": "Magazine",
+    "allowBreakStates": [
+      "Sprint",
+      "Fire",
+      "Collimation",
+      "Idle"
+    ]
+  }
+]
