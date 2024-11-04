@@ -1,0 +1,11 @@
+Begin Object Class=/Script/Engine.BlendSpace1D Name="BS1D_Additive_Lean_Run" ExportPath="/Script/Engine.BlendSpace1D'/Game/Characters/UEFN_Mannequin/Animations/Run/BS1D_Additive_Lean_Run.BS1D_Additive_Lean_Run'"
+   bContainsRotationOffsetMeshSpaceSamples=True
+   TargetWeightInterpolationSpeedPerSec=2.000000
+   AnimLength=0.166667
+   SampleData(0)=(Animation="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Run/M_Neutral_Run_Lean_Pose_Left.M_Neutral_Run_Lean_Pose_Left'",SampleValue=(X=-1.000000,Y=0.000000,Z=0.000000),bIncludeInAnalyseAll=False)
+   SampleData(1)=(Animation="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Run/M_Neutral_Run_Lean_Pose_Right.M_Neutral_Run_Lean_Pose_Right'",SampleValue=(X=1.000000,Y=0.000000,Z=0.000000),bIncludeInAnalyseAll=False)
+   SampleData(2)=(Animation="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Run/M_Neutral_Run_Lean_Pose_Base.M_Neutral_Run_Lean_Pose_Base'",bIncludeInAnalyseAll=False)
+   BlendSpaceData=(Segments=((SampleIndices[0]=0,SampleIndices[1]=2,Vertices[1]=0.500000),(SampleIndices[0]=2,SampleIndices[1]=1,Vertices[0]=0.500000,Vertices[1]=1.000000)))
+   BlendParameters(0)=(DisplayName="LeanLR",Min=-1.000000,Max=1.000000,bSnapToGrid=True)
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin'"
+End Object

@@ -1,0 +1,75 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot" ExportPath="/Script/Engine.AnimMontage'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'"
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimDataModel'"
+   End Object
+   Begin Object Class=/Script/MotionWarping.AnimNotifyState_MotionWarping Name="AnimNotifyState_MotionWarping_0" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_0'"
+      Begin Object Class=/Script/MotionWarping.RootMotionModifier_SkewWarp Name="RootMotionModifier_SkewWarp" Archetype="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Script/MotionWarping.Default__AnimNotifyState_MotionWarping:RootMotionModifier_SkewWarp'" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_0.RootMotionModifier_SkewWarp'"
+      End Object
+   End Object
+   Begin Object Class=/Script/MotionWarping.AnimNotifyState_MotionWarping Name="AnimNotifyState_MotionWarping_1" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_1'"
+      Begin Object Class=/Script/MotionWarping.RootMotionModifier_SkewWarp Name="RootMotionModifier_SkewWarp" Archetype="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Script/MotionWarping.Default__AnimNotifyState_MotionWarping:RootMotionModifier_SkewWarp'" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_1.RootMotionModifier_SkewWarp'"
+      End Object
+   End Object
+   Begin Object Class=/Script/MotionWarping.AnimNotifyState_MotionWarping Name="AnimNotifyState_MotionWarping_2" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_2'"
+      Begin Object Class=/Script/MotionWarping.RootMotionModifier_SkewWarp Name="RootMotionModifier_SkewWarp" Archetype="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Script/MotionWarping.Default__AnimNotifyState_MotionWarping:RootMotionModifier_SkewWarp'" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_2.RootMotionModifier_SkewWarp'"
+      End Object
+   End Object
+   Begin Object Class=/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn Name="AnimNotifyState_PoseSearchBranchIn_0" ExportPath="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_PoseSearchBranchIn_0'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Class=/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C Name="BP_NotifyState_TraversalBlendOut_C_0" ExportPath="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:BP_NotifyState_TraversalBlendOut_C_0'"
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimDataModel'"
+      NumberOfFrames=106000
+      NumberOfKeys=106001
+   End Object
+   Begin Object Name="AnimNotifyState_MotionWarping_0" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_0'"
+      Begin Object Name="RootMotionModifier_SkewWarp" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_0.RootMotionModifier_SkewWarp'"
+         WarpTargetName="FrontLedge"
+         WarpPointAnimProvider=Bone
+         WarpPointAnimBoneName="attach"
+         bIgnoreZAxis=False
+      End Object
+      RootMotionModifier="RootMotionModifier_SkewWarp"
+   End Object
+   Begin Object Name="AnimNotifyState_MotionWarping_1" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_1'"
+      Begin Object Name="RootMotionModifier_SkewWarp" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_1.RootMotionModifier_SkewWarp'"
+         WarpTargetName="BackFloor"
+         bIgnoreZAxis=False
+         bWarpRotation=False
+      End Object
+      RootMotionModifier="RootMotionModifier_SkewWarp"
+   End Object
+   Begin Object Name="AnimNotifyState_MotionWarping_2" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_2'"
+      Begin Object Name="RootMotionModifier_SkewWarp" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_MotionWarping_2.RootMotionModifier_SkewWarp'"
+         WarpTargetName="BackLedge"
+         bIgnoreZAxis=False
+         bWarpRotation=False
+      End Object
+      RootMotionModifier="RootMotionModifier_SkewWarp"
+   End Object
+   Begin Object Name="AnimNotifyState_PoseSearchBranchIn_0" ExportPath="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimNotifyState_PoseSearchBranchIn_0'"
+      Database="/Script/PoseSearch.PoseSearchDatabase'/Game/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/PSD_Traversal.PSD_Traversal'"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="BP_NotifyState_TraversalBlendOut_C_0" ExportPath="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:BP_NotifyState_TraversalBlendOut_C_0'"
+      BlendOutCondition=NewEnumerator1
+   End Object
+   BlendIn=(BlendOption=HermiteCubic)
+   BlendOut=(BlendOption=HermiteCubic)
+   CompositeSections(0)=(SectionName="Default",LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'")
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",CachedPlayLength=1.666667,AnimEndTime=1.766667))))
+   CommonTargetFrameRate=(Numerator=30)
+   Notifies(0)=(TriggerTimeOffset=0.000100,NotifyName="PoseSearchBranchIn",NotifyStateClass="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'AnimNotifyState_PoseSearchBranchIn_0'",Duration=0.121061,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.121061,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'"),Guid=7CAEA9A54F231483B0D99E891AC4ED1A,TrackIndex=1,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'")
+   Notifies(1)=(NotifyName="MotionWarping",NotifyStateClass="/Script/MotionWarping.AnimNotifyState_MotionWarping'AnimNotifyState_MotionWarping_0'",Duration=0.213259,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.379098,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'"),Guid=6AFE3CEA4C14CDDE12E7E09E0A541C04,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.165838,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'")
+   Notifies(2)=(NotifyName="MotionWarping",NotifyStateClass="/Script/MotionWarping.AnimNotifyState_MotionWarping'AnimNotifyState_MotionWarping_2'",Duration=0.129968,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.599585,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'"),Guid=966494BE4A3C27D6ABE8789476515690,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.469618,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'")
+   Notifies(3)=(NotifyName="MotionWarping",NotifyStateClass="/Script/MotionWarping.AnimNotifyState_MotionWarping'AnimNotifyState_MotionWarping_1'",Duration=0.243431,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.844582,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'"),Guid=35225273401686695EFB43878540D358,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.601151,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'")
+   Notifies(4)=(NotifyName="BP_NotifyState_TraversalBlendOut_C",NotifyStateClass="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'BP_NotifyState_TraversalBlendOut_C_0'",Duration=0.807129,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=1.766667,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'"),Guid=BABA2DFE441671F5F64A15AE7A509E9A,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'",SegmentIndex=0,SegmentLength=1.766667,LinkValue=0.959538,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Hurdle/M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot.M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot'")
+   SequenceLength=1.766667
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   AnimNotifyTracks(1)=(TrackName="2",TrackColor=(R=0.900000,G=0.900000,B=0.900000,A=0.900000))
+   DataModelInterface=AnimDataModel'AM_M_Neutral_Traversal_Hurdle_1_0_stand_F_V2_Rfoot:AnimDataModel'
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object

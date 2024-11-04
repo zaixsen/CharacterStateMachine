@@ -1,0 +1,8 @@
+Begin Object Class=/Script/Engine.CurveFloat Name="AO_Blend_Curve" ExportPath="/Script/Engine.CurveFloat'/Game/Characters/UEFN_Mannequin/Animations/AimOffset/AO_Blend_Curve.AO_Blend_Curve'"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData" ExportPath="/Script/Engine.AssetImportData'/Game/Characters/UEFN_Mannequin/Animations/AimOffset/AO_Blend_Curve.AO_Blend_Curve:AssetImportData'"
+   End Object
+   Begin Object Name="AssetImportData" ExportPath="/Script/Engine.AssetImportData'/Game/Characters/UEFN_Mannequin/Animations/AimOffset/AO_Blend_Curve.AO_Blend_Curve:AssetImportData'"
+   End Object
+   FloatCurve=(Keys=((InterpMode=RCIM_Cubic,ArriveTangentWeight=0.420436,LeaveTangentWeight=0.420436),(InterpMode=RCIM_Cubic,TangentMode=RCTM_User,Time=0.445375,Value=0.822032,ArriveTangent=1.073247,LeaveTangent=1.073247),(InterpMode=RCIM_Cubic,TangentMode=RCTM_User,Time=1.000000,Value=1.000000,ArriveTangent=0.000000,ArriveTangentWeight=0.614636,LeaveTangent=0.000000,LeaveTangentWeight=0.614636)))
+   AssetImportData="/Script/Engine.AssetImportData'AssetImportData'"
+End Object

@@ -1,0 +1,51 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot" ExportPath="/Script/Engine.AnimMontage'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'"
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimDataModel'"
+   End Object
+   Begin Object Class=/Script/MotionWarping.AnimNotifyState_MotionWarping Name="AnimNotifyState_MotionWarping_2" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimNotifyState_MotionWarping_2'"
+      Begin Object Class=/Script/MotionWarping.RootMotionModifier_SkewWarp Name="RootMotionModifier_SkewWarp" Archetype="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Script/MotionWarping.Default__AnimNotifyState_MotionWarping:RootMotionModifier_SkewWarp'" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimNotifyState_MotionWarping_2.RootMotionModifier_SkewWarp'"
+      End Object
+   End Object
+   Begin Object Class=/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn Name="AnimNotifyState_PoseSearchBranchIn_0" ExportPath="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimNotifyState_PoseSearchBranchIn_0'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Class=/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C Name="BP_NotifyState_MontageBlendOut_C_0" ExportPath="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:BP_NotifyState_MontageBlendOut_C_0'"
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimDataModel'"
+      NumberOfFrames=134000
+      NumberOfKeys=134001
+      CurveData=(FloatCurves=((FloatCurve=(Keys=((Value=1.000000))),Color=(R=0.768628,G=0.177839,B=0.510157,A=1.000000),CurveName="MovingTraversal",CurveTypeFlags=16)))
+   End Object
+   Begin Object Name="AnimNotifyState_MotionWarping_2" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimNotifyState_MotionWarping_2'"
+      Begin Object Name="RootMotionModifier_SkewWarp" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimNotifyState_MotionWarping_2.RootMotionModifier_SkewWarp'"
+         WarpTargetName="FrontLedge"
+         WarpPointAnimProvider=Bone
+         WarpPointAnimBoneName="attach"
+         bIgnoreZAxis=False
+      End Object
+      RootMotionModifier="RootMotionModifier_SkewWarp"
+   End Object
+   Begin Object Name="AnimNotifyState_PoseSearchBranchIn_0" ExportPath="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimNotifyState_PoseSearchBranchIn_0'"
+      Database="/Script/PoseSearch.PoseSearchDatabase'/Game/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/PSD_Traversal.PSD_Traversal'"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="BP_NotifyState_MontageBlendOut_C_0" ExportPath="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:BP_NotifyState_MontageBlendOut_C_0'"
+      BlendOutTime=0.300000
+   End Object
+   BlendIn=(BlendOption=HermiteCubic)
+   BlendOut=(BlendOption=HermiteCubic)
+   CompositeSections(0)=(SectionName="Default",LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'")
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",CachedPlayLength=2.700000,AnimEndTime=2.233333))))
+   CommonTargetFrameRate=(Numerator=30)
+   Notifies(0)=(TriggerTimeOffset=0.000100,NotifyName="PoseSearchBranchIn",NotifyStateClass="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'AnimNotifyState_PoseSearchBranchIn_0'",Duration=0.322940,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkValue=0.322940,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'"),Guid=53565E50440812B3CBCDC5B2E5995A4F,TrackIndex=1,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'")
+   Notifies(1)=(NotifyName="MotionWarping",NotifyStateClass="/Script/MotionWarping.AnimNotifyState_MotionWarping'AnimNotifyState_MotionWarping_2'",Duration=0.240602,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkValue=0.567739,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'"),Guid=4886CA9A408AF60A32C8F2BB3FEDE456,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkValue=0.327137,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'")
+   Notifies(2)=(EndTriggerTimeOffset=-0.000100,NotifyName="BP_NotifyState_TraversalBlendOut_C",NotifyStateClass="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'BP_NotifyState_MontageBlendOut_C_0'",Duration=1.501230,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkValue=2.233333,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'"),Guid=23717ECE43DD3351ECBF35AA12DDA957,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'",SegmentIndex=0,SegmentLength=2.233333,LinkValue=0.732103,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Mantle/M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot.M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot'")
+   SequenceLength=2.233333
+   RawCurveData=(FloatCurves=((FloatCurve=(Keys=((Value=1.000000))),Color=(R=0.768628,G=0.177839,B=0.510157,A=1.000000),CurveName="MovingTraversal",CurveTypeFlags=16)))
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   AnimNotifyTracks(1)=(TrackName="2",TrackColor=(R=0.900000,G=0.900000,B=0.900000,A=0.900000))
+   DataModelInterface=AnimDataModel'AM_M_Neutral_Traversal_Mantle_1_0_run_F_Rfoot:AnimDataModel'
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object

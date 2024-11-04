@@ -1,0 +1,61 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot" ExportPath="/Script/Engine.AnimMontage'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'"
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimDataModel'"
+   End Object
+   Begin Object Class=/Script/AnimGraphRuntime.AnimNotify_PlayMontageNotifyWindow Name="AnimNotify_PlayMontageNotifyWindow_0" ExportPath="/Script/AnimGraphRuntime.AnimNotify_PlayMontageNotifyWindow'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotify_PlayMontageNotifyWindow_0'"
+   End Object
+   Begin Object Class=/Script/MotionWarping.AnimNotifyState_MotionWarping Name="AnimNotifyState_MotionWarping_1" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotifyState_MotionWarping_1'"
+      Begin Object Class=/Script/MotionWarping.RootMotionModifier_SkewWarp Name="RootMotionModifier_SkewWarp" Archetype="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Script/MotionWarping.Default__AnimNotifyState_MotionWarping:RootMotionModifier_SkewWarp'" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotifyState_MotionWarping_1.RootMotionModifier_SkewWarp'"
+      End Object
+   End Object
+   Begin Object Class=/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn Name="AnimNotifyState_PoseSearchBranchIn_1" ExportPath="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotifyState_PoseSearchBranchIn_1'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Class=/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C Name="BP_NotifyState_TraversalBlendOut_C_1" ExportPath="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:BP_NotifyState_TraversalBlendOut_C_1'"
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimDataModel'"
+      NumberOfFrames=128000
+      NumberOfKeys=128001
+      CurveData=(FloatCurves=((FloatCurve=(Keys=((Value=1.000000))),Color=(R=0.768628,G=0.330152,B=0.177839,A=1.000000),CurveName="MovingTraversal",CurveTypeFlags=16)))
+   End Object
+   Begin Object Name="AnimNotify_PlayMontageNotifyWindow_0" ExportPath="/Script/AnimGraphRuntime.AnimNotify_PlayMontageNotifyWindow'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotify_PlayMontageNotifyWindow_0'"
+      NotifyName="DisableCollision"
+   End Object
+   Begin Object Name="AnimNotifyState_MotionWarping_1" ExportPath="/Script/MotionWarping.AnimNotifyState_MotionWarping'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotifyState_MotionWarping_1'"
+      Begin Object Name="RootMotionModifier_SkewWarp" ExportPath="/Script/MotionWarping.RootMotionModifier_SkewWarp'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotifyState_MotionWarping_1.RootMotionModifier_SkewWarp'"
+         WarpTargetName="FrontLedge"
+         WarpPointAnimProvider=Bone
+         WarpPointAnimBoneName="attach"
+         bIgnoreZAxis=False
+      End Object
+      RootMotionModifier="RootMotionModifier_SkewWarp"
+   End Object
+   Begin Object Name="AnimNotifyState_PoseSearchBranchIn_1" ExportPath="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimNotifyState_PoseSearchBranchIn_1'"
+      Database="/Script/PoseSearch.PoseSearchDatabase'/Game/Characters/UEFN_Mannequin/Animations/MotionMatchingData/Databases/PSD_Traversal.PSD_Traversal'"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="BP_NotifyState_TraversalBlendOut_C_1" ExportPath="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:BP_NotifyState_TraversalBlendOut_C_1'"
+      BlendOutTime=0.300000
+   End Object
+   BlendIn=(BlendOption=HermiteCubic)
+   BlendOut=(BlendOption=HermiteCubic)
+   CompositeSections(0)=(SectionName="Default",LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'")
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((AnimReference="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",CachedPlayLength=2.466667,AnimEndTime=2.133333))))
+   BranchingPointMarkers(0)=(NotifyIndex=2,TriggerTime=0.708045)
+   BranchingPointMarkers(1)=(NotifyIndex=2,TriggerTime=1.192075,NotifyEventType=End)
+   BranchingPointStateNotifyIndices(0)=2
+   CommonTargetFrameRate=(Numerator=30)
+   Notifies(0)=(TriggerTimeOffset=0.000100,NotifyName="PoseSearchBranchIn",NotifyStateClass="/Script/PoseSearch.AnimNotifyState_PoseSearchBranchIn'AnimNotifyState_PoseSearchBranchIn_1'",Duration=0.614071,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=0.614071,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'"),Guid=A47D7FA94CE8099561302BAB52C999FF,TrackIndex=1,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'")
+   Notifies(1)=(NotifyName="MotionWarping",NotifyStateClass="/Script/MotionWarping.AnimNotifyState_MotionWarping'AnimNotifyState_MotionWarping_1'",Duration=0.216705,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=0.835370,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'"),Guid=1E81BF6F469287C2B2978286DD67EF3F,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=0.618665,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'")
+   Notifies(2)=(NotifyName="PlayMontageNotifyWindow",NotifyStateClass="/Script/AnimGraphRuntime.AnimNotify_PlayMontageNotifyWindow'AnimNotify_PlayMontageNotifyWindow_0'",Duration=0.484030,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=1.192075,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'"),Guid=2EA2258944968ECB6169CD9E6052D2C8,TrackIndex=1,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=0.708045,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'")
+   Notifies(3)=(NotifyName="BP_NotifyState_TraversalBlendOut_C",NotifyStateClass="/Game/Blueprints/AnimNotifies/BP_NotifyState_MontageBlendOut.BP_NotifyState_MontageBlendOut_C'BP_NotifyState_TraversalBlendOut_C_1'",Duration=0.887465,EndLink=(LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=2.133333,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'"),Guid=0E86F0934ACF7007B31D5B8191884CCD,LinkedMontage="/Script/Engine.AnimMontage'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'",SegmentIndex=0,SegmentLength=2.133333,LinkValue=1.245869,LinkedSequence="/Script/Engine.AnimSequence'/Game/Characters/UEFN_Mannequin/Animations/Traversal/Vault/M_Neutral_Traversal_Vault_1_0_run_F_Lfoot.M_Neutral_Traversal_Vault_1_0_run_F_Lfoot'")
+   SequenceLength=2.133333
+   RawCurveData=(FloatCurves=((FloatCurve=(Keys=((Value=1.000000))),Color=(R=0.768628,G=0.330152,B=0.177839,A=1.000000),CurveName="MovingTraversal",CurveTypeFlags=16)))
+   AnimNotifyTracks(0)=(TrackName="1",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   AnimNotifyTracks(1)=(TrackName="2",TrackColor=(R=0.900000,G=0.900000,B=0.900000,A=0.900000))
+   AnimNotifyTracks(2)=(TrackName="3",TrackColor=(R=0.500000,G=0.500000,B=0.500000,A=1.000000))
+   DataModelInterface=AnimDataModel'AM_M_Neutral_Traversal_Vault_1_0_run_F_Lfoot:AnimDataModel'
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object

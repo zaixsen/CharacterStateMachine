@@ -1,0 +1,101 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SK_UEFN_Mannequin" ExportPath="/Script/Engine.Skeleton'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin'"
+   Begin Object Class=/Script/Engine.BlendProfile Name="FastHead_Weight" ExportPath="/Script/Engine.BlendProfile'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:FastHead_Weight'"
+   End Object
+   Begin Object Class=/Script/Engine.BlendProfile Name="FastFeet+Root_Weight" ExportPath="/Script/Engine.BlendProfile'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:FastFeet+Root_Weight'"
+   End Object
+   Begin Object Class=/Script/Engine.AnimCurveMetaData Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:AnimCurveMetaData_0'"
+   End Object
+   Begin Object Name="FastHead_Weight" ExportPath="/Script/Engine.BlendProfile'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:FastHead_Weight'"
+      OwningSkeleton="/Script/Engine.Skeleton'SK_UEFN_Mannequin'"
+      ProfileEntries(0)=(BoneReference=(BoneName="neck_01"),BlendScale=1.500000)
+      ProfileEntries(1)=(BoneReference=(BoneName="neck_02"),BlendScale=1.500000)
+      ProfileEntries(2)=(BoneReference=(BoneName="head"),BlendScale=1.500000)
+      ProfileEntries(3)=(BoneReference=(BoneName="clavicle_r"),BlendScale=0.750000)
+      ProfileEntries(4)=(BoneReference=(BoneName="upperarm_r"),BlendScale=0.750000)
+      ProfileEntries(5)=(BoneReference=(BoneName="lowerarm_r"),BlendScale=0.500000)
+      ProfileEntries(6)=(BoneReference=(BoneName="hand_r"),BlendScale=0.500000)
+      ProfileEntries(7)=(BoneReference=(BoneName="index_metacarpal_r"),BlendScale=0.500000)
+      ProfileEntries(8)=(BoneReference=(BoneName="index_01_r"),BlendScale=0.500000)
+      ProfileEntries(9)=(BoneReference=(BoneName="index_02_r"),BlendScale=0.500000)
+      ProfileEntries(10)=(BoneReference=(BoneName="index_03_r"),BlendScale=0.500000)
+      ProfileEntries(11)=(BoneReference=(BoneName="middle_metacarpal_r"),BlendScale=0.500000)
+      ProfileEntries(12)=(BoneReference=(BoneName="middle_01_r"),BlendScale=0.500000)
+      ProfileEntries(13)=(BoneReference=(BoneName="middle_02_r"),BlendScale=0.500000)
+      ProfileEntries(14)=(BoneReference=(BoneName="middle_03_r"),BlendScale=0.500000)
+      ProfileEntries(15)=(BoneReference=(BoneName="pinky_metacarpal_r"),BlendScale=0.500000)
+      ProfileEntries(16)=(BoneReference=(BoneName="pinky_01_r"),BlendScale=0.500000)
+      ProfileEntries(17)=(BoneReference=(BoneName="pinky_02_r"),BlendScale=0.500000)
+      ProfileEntries(18)=(BoneReference=(BoneName="pinky_03_r"),BlendScale=0.500000)
+      ProfileEntries(19)=(BoneReference=(BoneName="ring_metacarpal_r"),BlendScale=0.500000)
+      ProfileEntries(20)=(BoneReference=(BoneName="ring_01_r"),BlendScale=0.500000)
+      ProfileEntries(21)=(BoneReference=(BoneName="ring_02_r"),BlendScale=0.500000)
+      ProfileEntries(22)=(BoneReference=(BoneName="ring_03_r"),BlendScale=0.500000)
+      ProfileEntries(23)=(BoneReference=(BoneName="thumb_01_r"),BlendScale=0.500000)
+      ProfileEntries(24)=(BoneReference=(BoneName="thumb_02_r"),BlendScale=0.500000)
+      ProfileEntries(25)=(BoneReference=(BoneName="thumb_03_r"),BlendScale=0.500000)
+      ProfileEntries(26)=(BoneReference=(BoneName="weapon_r"),BlendScale=0.500000)
+      ProfileEntries(27)=(BoneReference=(BoneName="hand_attach_r"),BlendScale=0.500000)
+      ProfileEntries(28)=(BoneReference=(BoneName="lowerarm_twist_01_r"),BlendScale=0.500000)
+      ProfileEntries(29)=(BoneReference=(BoneName="lowerarm_twist_02_r"),BlendScale=0.500000)
+      ProfileEntries(30)=(BoneReference=(BoneName="upperarm_twist_01_r"),BlendScale=0.750000)
+      ProfileEntries(31)=(BoneReference=(BoneName="upperarm_twist_02_r"),BlendScale=0.750000)
+      ProfileEntries(32)=(BoneReference=(BoneName="clavicle_l"),BlendScale=0.750000)
+      ProfileEntries(33)=(BoneReference=(BoneName="upperarm_l"),BlendScale=0.750000)
+      ProfileEntries(34)=(BoneReference=(BoneName="lowerarm_l"),BlendScale=0.500000)
+      ProfileEntries(35)=(BoneReference=(BoneName="hand_l"),BlendScale=0.500000)
+      ProfileEntries(36)=(BoneReference=(BoneName="index_metacarpal_l"),BlendScale=0.500000)
+      ProfileEntries(37)=(BoneReference=(BoneName="index_01_l"),BlendScale=0.500000)
+      ProfileEntries(38)=(BoneReference=(BoneName="index_02_l"),BlendScale=0.500000)
+      ProfileEntries(39)=(BoneReference=(BoneName="index_03_l"),BlendScale=0.500000)
+      ProfileEntries(40)=(BoneReference=(BoneName="middle_metacarpal_l"),BlendScale=0.500000)
+      ProfileEntries(41)=(BoneReference=(BoneName="middle_01_l"),BlendScale=0.500000)
+      ProfileEntries(42)=(BoneReference=(BoneName="middle_02_l"),BlendScale=0.500000)
+      ProfileEntries(43)=(BoneReference=(BoneName="middle_03_l"),BlendScale=0.500000)
+      ProfileEntries(44)=(BoneReference=(BoneName="pinky_metacarpal_l"),BlendScale=0.500000)
+      ProfileEntries(45)=(BoneReference=(BoneName="pinky_01_l"),BlendScale=0.500000)
+      ProfileEntries(46)=(BoneReference=(BoneName="pinky_02_l"),BlendScale=0.500000)
+      ProfileEntries(47)=(BoneReference=(BoneName="pinky_03_l"),BlendScale=0.500000)
+      ProfileEntries(48)=(BoneReference=(BoneName="ring_metacarpal_l"),BlendScale=0.500000)
+      ProfileEntries(49)=(BoneReference=(BoneName="ring_01_l"),BlendScale=0.500000)
+      ProfileEntries(50)=(BoneReference=(BoneName="ring_02_l"),BlendScale=0.500000)
+      ProfileEntries(51)=(BoneReference=(BoneName="ring_03_l"),BlendScale=0.500000)
+      ProfileEntries(52)=(BoneReference=(BoneName="thumb_01_l"),BlendScale=0.500000)
+      ProfileEntries(53)=(BoneReference=(BoneName="thumb_02_l"),BlendScale=0.500000)
+      ProfileEntries(54)=(BoneReference=(BoneName="thumb_03_l"),BlendScale=0.500000)
+      ProfileEntries(55)=(BoneReference=(BoneName="weapon_l"),BlendScale=0.500000)
+      ProfileEntries(56)=(BoneReference=(BoneName="hand_attach_l"),BlendScale=0.500000)
+      ProfileEntries(57)=(BoneReference=(BoneName="lowerarm_twist_01_l"),BlendScale=0.500000)
+      ProfileEntries(58)=(BoneReference=(BoneName="lowerarm_twist_02_l"),BlendScale=0.500000)
+      ProfileEntries(59)=(BoneReference=(BoneName="upperarm_twist_01_l"),BlendScale=0.750000)
+      ProfileEntries(60)=(BoneReference=(BoneName="upperarm_twist_02_l"),BlendScale=0.750000)
+   End Object
+   Begin Object Name="FastFeet+Root_Weight" ExportPath="/Script/Engine.BlendProfile'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:FastFeet+Root_Weight'"
+      OwningSkeleton="/Script/Engine.Skeleton'SK_UEFN_Mannequin'"
+      ProfileEntries(0)=(BoneReference=(BoneName="root"),BlendScale=2.000000)
+      ProfileEntries(1)=(BoneReference=(BoneName="ik_foot_root"),BlendScale=1.500000)
+      ProfileEntries(2)=(BoneReference=(BoneName="ik_foot_l"),BlendScale=1.500000)
+      ProfileEntries(3)=(BoneReference=(BoneName="ik_foot_r"),BlendScale=1.500000)
+      ProfileEntries(4)=(BoneReference=(BoneName="thigh_l"),BlendScale=1.500000)
+      ProfileEntries(5)=(BoneReference=(BoneName="calf_l"),BlendScale=1.500000)
+      ProfileEntries(6)=(BoneReference=(BoneName="calf_twist_01_l"),BlendScale=1.500000)
+      ProfileEntries(7)=(BoneReference=(BoneName="calf_twist_02_l"),BlendScale=1.500000)
+      ProfileEntries(8)=(BoneReference=(BoneName="foot_l"),BlendScale=1.500000)
+      ProfileEntries(9)=(BoneReference=(BoneName="ball_l"),BlendScale=1.500000)
+      ProfileEntries(10)=(BoneReference=(BoneName="thigh_twist_01_l"),BlendScale=1.500000)
+      ProfileEntries(11)=(BoneReference=(BoneName="thigh_r"),BlendScale=1.500000)
+      ProfileEntries(12)=(BoneReference=(BoneName="calf_r"),BlendScale=1.500000)
+      ProfileEntries(13)=(BoneReference=(BoneName="calf_twist_01_r"),BlendScale=1.500000)
+      ProfileEntries(14)=(BoneReference=(BoneName="calf_twist_02_r"),BlendScale=1.500000)
+      ProfileEntries(15)=(BoneReference=(BoneName="foot_r"),BlendScale=1.500000)
+      ProfileEntries(16)=(BoneReference=(BoneName="ball_r"),BlendScale=1.500000)
+      ProfileEntries(17)=(BoneReference=(BoneName="thigh_twist_01_r"),BlendScale=1.500000)
+   End Object
+   Begin Object Name="AnimCurveMetaData_0" ExportPath="/Script/Engine.AnimCurveMetaData'/Game/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.SK_UEFN_Mannequin:AnimCurveMetaData_0'"
+   End Object
+   BoneTree(100)=()
+   BlendProfiles(0)="/Script/Engine.BlendProfile'FastFeet+Root_Weight'"
+   BlendProfiles(1)="/Script/Engine.BlendProfile'FastHead_Weight'"
+   SlotGroups(0)=(SlotNames=("DefaultSlot"))
+   PreviewSkeletalMesh="/Game/Characters/UEFN_Mannequin/Meshes/SKM_UEFN_Mannequin.SKM_UEFN_Mannequin"
+   AssetUserData(0)="/Script/Engine.AnimCurveMetaData'AnimCurveMetaData_0'"
+End Object

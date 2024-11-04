@@ -1,0 +1,342 @@
+Begin Object Class=/Script/Engine.PhysicsAsset Name="PA_UEFN_Mannequin" ExportPath="/Script/Engine.PhysicsAsset'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin'"
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_17" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_17'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_34" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_34'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_35" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_35'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_36" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_36'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_37" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_37'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_38" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_38'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_39" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_39'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_40" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_40'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_41" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_41'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_42" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_42'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_43" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_43'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_44" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_44'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_45" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_45'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_46" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_46'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_47" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_47'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_48" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_48'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_49" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_49'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_50" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_50'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_51" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_51'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_52" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_52'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_53" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_53'"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_54" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_54'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_17" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_17'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_18" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_18'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_19" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_19'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_20" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_20'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_21" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_21'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_39" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_39'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_40" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_40'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_41" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_41'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_42" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_42'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_43" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_43'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_44" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_44'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_45" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_45'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_46" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_46'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_47" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_47'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_48" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_48'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_49" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_49'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_50" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_50'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_51" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_51'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_52" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_52'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_53" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_53'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_54" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_54'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_55" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_55'"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_56" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_56'"
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_17" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_17'"
+      DefaultInstance=(JointName="UserConstraint",ConstraintBone1="pelvis",ConstraintBone2="root",Pos2=(X=0.000000,Y=-0.707131,Z=93.119133),PriAxis2=(X=0.000000,Y=0.035825,Z=0.999358),SecAxis2=(X=-0.000000,Y=0.999358,Z=-0.035825),ProfileInstance=(LinearLimit=(XMotion=LCM_Free,YMotion=LCM_Free,ZMotion=LCM_Free)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_34" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_34'"
+      DefaultInstance=(JointName="UserConstraint_0",ConstraintBone1="spine_01",ConstraintBone2="pelvis",Pos2=(X=6.749367,Y=-0.638774,Z=-0.000000),PriAxis2=(X=0.997683,Y=-0.068030,Z=-0.000000),SecAxis2=(X=0.068030,Y=0.997683,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_35" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_35'"
+      DefaultInstance=(JointName="UserConstraint_1",ConstraintBone1="spine_02",ConstraintBone2="spine_01",Pos2=(X=7.251758,Y=-0.034981,Z=-0.000000),PriAxis2=(X=0.998871,Y=-0.047502,Z=-0.000000),SecAxis2=(X=0.047502,Y=0.998871,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_36" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_36'"
+      DefaultInstance=(JointName="UserConstraint_2",ConstraintBone1="spine_03",ConstraintBone2="spine_02",Pos2=(X=6.010429,Y=-0.000000,Z=0.000000),PriAxis2=(X=0.999557,Y=-0.029748,Z=0.000000),SecAxis2=(X=0.029748,Y=0.999557,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_37" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_37'"
+      DefaultInstance=(JointName="UserConstraint_3",ConstraintBone1="spine_04",ConstraintBone2="spine_03",Pos2=(X=8.102359,Y=-0.000000,Z=-0.000000),PriAxis2=(X=0.999654,Y=0.026313,Z=0.000000),SecAxis2=(X=-0.026313,Y=0.999654,Z=-0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_38" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_38'"
+      DefaultInstance=(JointName="UserConstraint_4",ConstraintBone1="spine_05",ConstraintBone2="spine_04",Pos2=(X=10.014617,Y=0.000000,Z=0.000000),PriAxis2=(X=0.999996,Y=0.002988,Z=0.000000),SecAxis2=(X=-0.002988,Y=0.999996,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_39" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_39'"
+      DefaultInstance=(JointName="UserConstraint_5",ConstraintBone1="clavicle_l",ConstraintBone2="spine_05",Pos2=(X=4.357458,Y=-0.146572,Z=-2.322321),PriAxis2=(X=-0.062842,Y=-0.055476,Z=-0.996480),SecAxis2=(X=-0.080034,Y=0.995518,Z=-0.050375),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_40" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_40'"
+      DefaultInstance=(JointName="UserConstraint_6",ConstraintBone1="upperarm_l",ConstraintBone2="clavicle_l",Pos2=(X=15.511094,Y=-0.000000,Z=0.000000),PriAxis2=(X=0.425390,Y=-0.022956,Z=-0.904719),SecAxis2=(X=-0.042353,Y=0.998078,Z=-0.045239),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_41" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_41'"
+      DefaultInstance=(JointName="UserConstraint_7",ConstraintBone1="lowerarm_l",ConstraintBone2="upperarm_l",Pos2=(X=26.651358,Y=-0.000000,Z=0.000000),PriAxis2=(X=0.879497,Y=0.474359,Z=-0.038319),SecAxis2=(X=-0.475904,Y=0.876642,Z=-0.070815),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_42" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_42'"
+      DefaultInstance=(JointName="UserConstraint_8",ConstraintBone1="hand_l",ConstraintBone2="lowerarm_l",Pos2=(X=22.349146,Y=-0.000000,Z=-0.000000),PriAxis2=(X=0.975837,Y=-0.064288,Z=-0.208828),SecAxis2=(X=0.207835,Y=-0.021845,Z=0.977920),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_43" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_43'"
+      DefaultInstance=(JointName="clavicle_r",ConstraintBone1="clavicle_r",ConstraintBone2="spine_05",Pos2=(X=4.357547,Y=-0.146559,Z=2.322328),PriAxis2=(X=0.062843,Y=0.055476,Z=-0.996480),SecAxis2=(X=0.080033,Y=-0.995518,Z=-0.050375),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_44" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_44'"
+      DefaultInstance=(JointName="upperarm_r",ConstraintBone1="upperarm_r",ConstraintBone2="clavicle_r",Pos2=(X=-15.511082,Y=-0.000010,Z=-0.000013),PriAxis2=(X=0.425390,Y=-0.022956,Z=-0.904719),SecAxis2=(X=-0.042353,Y=0.998078,Z=-0.045239),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_45" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_45'"
+      DefaultInstance=(JointName="lowerarm_r",ConstraintBone1="lowerarm_r",ConstraintBone2="upperarm_r",Pos2=(X=-26.651451,Y=0.000002,Z=0.000002),PriAxis2=(X=0.879497,Y=0.474359,Z=-0.038319),SecAxis2=(X=-0.475904,Y=0.876642,Z=-0.070815),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_46" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_46'"
+      DefaultInstance=(JointName="hand_r",ConstraintBone1="hand_r",ConstraintBone2="lowerarm_r",Pos2=(X=-22.349243,Y=0.000010,Z=0.000014),PriAxis2=(X=0.975837,Y=-0.064288,Z=-0.208828),SecAxis2=(X=0.207835,Y=-0.021845,Z=0.977920),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_47" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_47'"
+      DefaultInstance=(JointName="UserConstraint_9",ConstraintBone1="neck_01",ConstraintBone2="spine_05",Pos2=(X=11.313825,Y=0.152862,Z=-0.000000),PriAxis2=(X=0.919779,Y=0.392438,Z=-0.000000),SecAxis2=(X=-0.392438,Y=0.919779,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_48" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_48'"
+      DefaultInstance=(JointName="UserConstraint_10",ConstraintBone1="head",ConstraintBone2="neck_01",Pos2=(X=9.926639,Y=-0.543086,Z=-0.000000),PriAxis2=(X=0.945612,Y=-0.325296,Z=0.000000),SecAxis2=(X=0.325296,Y=0.945612,Z=0.000000),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_49" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_49'"
+      DefaultInstance=(JointName="UserConstraint_11",ConstraintBone1="thigh_l",ConstraintBone2="pelvis",Pos2=(X=-2.569328,Y=-0.010871,Z=-7.750069),PriAxis2=(X=0.992987,Y=-0.030729,Z=0.114160),SecAxis2=(X=0.031012,Y=0.999519,Z=-0.000702),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_50" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_50'"
+      DefaultInstance=(JointName="UserConstraint_12",ConstraintBone1="calf_l",ConstraintBone2="thigh_l",Pos2=(X=-39.048439,Y=-0.000000,Z=-0.000000),PriAxis2=(X=0.996434,Y=0.078014,Z=-0.032151),SecAxis2=(X=-0.078055,Y=0.996949,Z=-0.000025),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_51" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_51'"
+      DefaultInstance=(JointName="UserConstraint_13",ConstraintBone1="foot_l",ConstraintBone2="calf_l",Pos2=(X=-42.561031,Y=0.107739,Z=0.429190),PriAxis2=(X=0.993508,Y=-0.072196,Z=-0.087918),SecAxis2=(X=0.064591,Y=0.994157,Z=-0.086481),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_52" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_52'"
+      DefaultInstance=(JointName="thigh_r",ConstraintBone1="thigh_r",ConstraintBone2="pelvis",Pos2=(X=-2.569138,Y=-0.010875,Z=7.750063),PriAxis2=(X=-0.992987,Y=0.030729,Z=0.114160),SecAxis2=(X=-0.031012,Y=-0.999519,Z=-0.000702),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_53" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_53'"
+      DefaultInstance=(JointName="calf_r",ConstraintBone1="calf_r",ConstraintBone2="thigh_r",Pos2=(X=39.048656,Y=-0.000002,Z=0.000000),PriAxis2=(X=0.996434,Y=0.078014,Z=-0.032151),SecAxis2=(X=-0.078055,Y=0.996949,Z=-0.000025),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_54" ExportPath="/Script/Engine.PhysicsConstraintTemplate'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:PhysicsConstraintTemplate_54'"
+      DefaultInstance=(JointName="foot_r",ConstraintBone1="foot_r",ConstraintBone2="calf_r",Pos2=(X=42.561165,Y=-0.107729,Z=-0.429205),PriAxis2=(X=0.993508,Y=-0.072196,Z=-0.087918),SecAxis2=(X=0.064591,Y=0.994157,Z=-0.086481),ProfileInstance=(ConeLimit=(Swing1Motion=ACM_Locked,Swing2Motion=ACM_Locked),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="SkeletalBodySetup_17" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_17'"
+      AggGeom=(SphereElems=((Center=(X=0.000000,Y=0.000000,Z=4.694021),Radius=5.000000,Name="root_sphere")))
+      BoneName="root"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_18" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_18'"
+      AggGeom=(SphylElems=((Radius=13.000000,Length=9.250000,Name="pelvis_capsule")))
+      BoneName="pelvis"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_19" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_19'"
+      AggGeom=(SphylElems=((Radius=13.000000,Length=8.250000,Name="spine_01_capsule")))
+      BoneName="spine_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_20" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_20'"
+      AggGeom=(SphylElems=((Radius=12.750000,Length=7.250000,Name="spine_02_capsule")))
+      BoneName="spine_02"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_21" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_21'"
+      AggGeom=(SphylElems=((Radius=13.750000,Length=7.250000,Name="spine_03_capsule")))
+      BoneName="spine_03"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_39" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_39'"
+      AggGeom=(SphylElems=((Radius=14.000000,Length=7.750000,Name="spine_04_capsule")))
+      BoneName="spine_04"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_40" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_40'"
+      AggGeom=(SphylElems=((Radius=12.750000,Length=13.250000,Name="spine_05_capsule")))
+      BoneName="spine_05"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_41" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_41'"
+      AggGeom=(SphylElems=((Center=(X=8.442270,Y=-0.000060,Z=-0.000000),Rotation=(Pitch=-90.000000,Yaw=160.528809,Roll=-160.529218),Radius=8.000000,Length=6.750000,Name="clavicle_l_capsule")))
+      BoneName="clavicle_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_42" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_42'"
+      AggGeom=(SphylElems=((Center=(X=11.711105,Y=0.000028,Z=-0.000000),Rotation=(Pitch=-90.000000,Yaw=160.528736,Roll=-160.528601),Radius=5.750000,Length=22.250000,Name="upperarm_l_capsule")))
+      BoneName="upperarm_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_43" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_43'"
+      AggGeom=(SphylElems=((Center=(X=10.527511,Y=0.000028,Z=0.000000),Rotation=(Pitch=-90.000000,Yaw=174.948869,Roll=-174.948714),Radius=4.750000,Length=18.250000,Name="lowerarm_l_capsule")))
+      BoneName="lowerarm_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_44" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_44'"
+      AggGeom=(BoxElems=((Center=(X=7.376474,Y=-0.000000,Z=0.000000),X=14.500000,Y=5.500000,Z=9.500000,Name="hand_l_box")))
+      BoneName="hand_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_45" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_45'"
+      AggGeom=(SphylElems=((Center=(X=-8.442270,Y=0.000060,Z=0.000000),Rotation=(Pitch=-90.000000,Yaw=172.447566,Roll=7.552025),Radius=8.000000,Length=6.750000,Name="clavicle_l_capsule")))
+      BoneName="clavicle_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_46" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_46'"
+      AggGeom=(SphylElems=((Center=(X=-11.711105,Y=-0.000028,Z=0.000000),Rotation=(Pitch=-90.000000,Yaw=172.447647,Roll=7.552488),Radius=5.750000,Length=22.250000,Name="upperarm_l_capsule")))
+      BoneName="upperarm_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_47" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_47'"
+      AggGeom=(SphylElems=((Center=(X=-10.527511,Y=-0.000028,Z=-0.000000),Rotation=(Pitch=-90.000000,Yaw=179.240418,Roll=0.759737),Radius=4.750000,Length=18.250000,Name="lowerarm_l_capsule")))
+      BoneName="lowerarm_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_48" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_48'"
+      AggGeom=(BoxElems=((Center=(X=-7.376474,Y=0.000000,Z=-0.000000),Rotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000),X=14.500000,Y=5.500000,Z=9.500000,Name="hand_l_box")))
+      BoneName="hand_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_49" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_49'"
+      AggGeom=(SphylElems=((Center=(X=4.305896,Y=-0.000014,Z=0.000000),Rotation=(Pitch=-90.000000,Yaw=6.721412,Roll=-6.721605),Radius=6.250000,Length=2.000000,Name="neck_01_capsule")))
+      BoneName="neck_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_50" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_50'"
+      AggGeom=(SphylElems=((Center=(X=4.311938,Y=2.515995,Z=-0.000000),Rotation=(Pitch=-90.000000,Yaw=-90.000000,Roll=77.745662),Radius=8.750000,Length=7.000000,Name="head_capsule")))
+      BoneName="head"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_51" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_51'"
+      AggGeom=(SphylElems=((Center=(X=-19.467789,Y=0.000084,Z=0.000000),Rotation=(Pitch=-90.000000,Yaw=-179.986850,Roll=179.986601),Radius=10.250000,Length=28.250000,Name="thigh_l_capsule")))
+      BoneName="thigh_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_52" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_52'"
+      AggGeom=(SphylElems=((Center=(X=-20.701659,Y=0.000069,Z=-0.000000),Rotation=(Pitch=-90.000000,Yaw=179.999945,Roll=179.999864),Radius=8.500000,Length=27.250000,Name="calf_l_capsule")))
+      BoneName="calf_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_53" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_53'"
+      AggGeom=(BoxElems=((Center=(X=-4.102836,Y=6.719809,Z=-0.000000),X=10.500000,Y=27.000000,Z=13.000000,Name="foot_l_box")))
+      BoneName="foot_l"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_54" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_54'"
+      AggGeom=(SphylElems=((Center=(X=19.467789,Y=-0.000084,Z=-0.000000),Rotation=(Pitch=-90.000000,Yaw=-90.000000,Roll=-90.000248),Radius=10.250000,Length=28.250000,Name="thigh_l_capsule")))
+      BoneName="thigh_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_55" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_55'"
+      AggGeom=(SphylElems=((Center=(X=20.701659,Y=-0.000069,Z=0.000000),Rotation=(Pitch=-90.000000,Yaw=179.999945,Roll=-0.000136),Radius=8.500000,Length=27.250000,Name="calf_l_capsule")))
+      BoneName="calf_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_56" ExportPath="/Script/Engine.SkeletalBodySetup'/Game/Characters/UEFN_Mannequin/Rigs/PA_UEFN_Mannequin.PA_UEFN_Mannequin:SkeletalBodySetup_56'"
+      AggGeom=(BoxElems=((Center=(X=4.102836,Y=-6.719809,Z=0.000000),Rotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000),X=10.500000,Y=27.000000,Z=13.000000,Name="foot_l_box")))
+      BoneName="foot_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   PreviewSkeletalMesh="/Game/Characters/UEFN_Mannequin/Meshes/SKM_UEFN_Mannequin.SKM_UEFN_Mannequin"
+   BoundsBodies(0)=0
+   BoundsBodies(1)=1
+   BoundsBodies(2)=2
+   BoundsBodies(3)=3
+   BoundsBodies(4)=4
+   BoundsBodies(5)=5
+   BoundsBodies(6)=6
+   BoundsBodies(7)=7
+   BoundsBodies(8)=8
+   BoundsBodies(9)=9
+   BoundsBodies(10)=10
+   BoundsBodies(11)=11
+   BoundsBodies(12)=12
+   BoundsBodies(13)=13
+   BoundsBodies(14)=14
+   BoundsBodies(15)=15
+   BoundsBodies(16)=16
+   BoundsBodies(17)=17
+   BoundsBodies(18)=18
+   BoundsBodies(19)=19
+   BoundsBodies(20)=20
+   BoundsBodies(21)=21
+   BoundsBodies(22)=22
+   SkeletalBodySetups(0)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_17'"
+   SkeletalBodySetups(1)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_18'"
+   SkeletalBodySetups(2)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_19'"
+   SkeletalBodySetups(3)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_20'"
+   SkeletalBodySetups(4)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_21'"
+   SkeletalBodySetups(5)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_39'"
+   SkeletalBodySetups(6)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_40'"
+   SkeletalBodySetups(7)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_41'"
+   SkeletalBodySetups(8)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_42'"
+   SkeletalBodySetups(9)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_43'"
+   SkeletalBodySetups(10)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_44'"
+   SkeletalBodySetups(11)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_45'"
+   SkeletalBodySetups(12)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_46'"
+   SkeletalBodySetups(13)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_47'"
+   SkeletalBodySetups(14)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_48'"
+   SkeletalBodySetups(15)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_49'"
+   SkeletalBodySetups(16)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_50'"
+   SkeletalBodySetups(17)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_51'"
+   SkeletalBodySetups(18)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_52'"
+   SkeletalBodySetups(19)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_53'"
+   SkeletalBodySetups(20)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_54'"
+   SkeletalBodySetups(21)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_55'"
+   SkeletalBodySetups(22)="/Script/Engine.SkeletalBodySetup'SkeletalBodySetup_56'"
+   ConstraintSetup(0)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_17'"
+   ConstraintSetup(1)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_34'"
+   ConstraintSetup(2)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_35'"
+   ConstraintSetup(3)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_36'"
+   ConstraintSetup(4)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_37'"
+   ConstraintSetup(5)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_38'"
+   ConstraintSetup(6)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_39'"
+   ConstraintSetup(7)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_40'"
+   ConstraintSetup(8)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_41'"
+   ConstraintSetup(9)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_42'"
+   ConstraintSetup(10)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_43'"
+   ConstraintSetup(11)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_44'"
+   ConstraintSetup(12)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_45'"
+   ConstraintSetup(13)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_46'"
+   ConstraintSetup(14)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_47'"
+   ConstraintSetup(15)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_48'"
+   ConstraintSetup(16)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_49'"
+   ConstraintSetup(17)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_50'"
+   ConstraintSetup(18)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_51'"
+   ConstraintSetup(19)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_52'"
+   ConstraintSetup(20)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_53'"
+   ConstraintSetup(21)="/Script/Engine.PhysicsConstraintTemplate'PhysicsConstraintTemplate_54'"
+End Object
