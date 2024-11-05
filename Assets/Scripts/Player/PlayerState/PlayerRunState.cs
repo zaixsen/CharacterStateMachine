@@ -25,7 +25,7 @@ public class PlayerRunState : PlayerStateBase
             return;
         }
 
-        if (Input.GetKeyUp(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R))
         {
             controller.SwitchState(PlayerState.Magazine);
             return;
@@ -38,6 +38,11 @@ public class PlayerRunState : PlayerStateBase
         }
 
         #region Move
+
+        {
+            controller.transform.rotation = Quaternion.Slerp(controller.transform.rotation,
+                _targetQua, Time.deltaTime * controller.rotationSpeed);
+        }
 
         SetMotionAnimation(MoveValue.x, MoveValue.z, 1.5f);
         controller.PlayerMove(GetMotionAnimation());

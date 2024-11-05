@@ -31,18 +31,18 @@ public class PlayerWalkState : PlayerStateBase
 
         #region Move
 
-        
-        if (_rotationAngle > 177.5f && _rotationAngle < 182.5f)
-        {
-            controller.SwitchState(PlayerState.TurnBack);
-        }
-        else
+
+        //if (_rotationAngle > 177.5f && _rotationAngle < 182.5f)
+        //{
+        //    //controller.SwitchState(PlayerState.TurnBack);
+        //}
+        //else
         {
             controller.transform.rotation = Quaternion.Slerp(controller.transform.rotation,
                 _targetQua, Time.deltaTime * controller.rotationSpeed);
         }
 
-        SetMotionAnimation(MoveValue.x, MoveValue.z, 1f);
+        SetMotionAnimation(MoveValue.x, MoveValue.z, .75f);
         controller.PlayerMove(GetMotionAnimation());
 
         #endregion

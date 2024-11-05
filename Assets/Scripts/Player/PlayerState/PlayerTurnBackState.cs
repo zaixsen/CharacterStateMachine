@@ -20,6 +20,7 @@ public class PlayerTurnBackState : PlayerStateBase
         currentAniamtionName = animationNames[Random.Range(0, animationNames.Length)];
 
         controller.animator.SetTrigger(currentAniamtionName);
+
     }
 
 
